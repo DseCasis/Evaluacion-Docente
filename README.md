@@ -8,6 +8,8 @@ El objetivo de este proyecto es desarrollar una aplicación web para facilitar e
 
 La parte front-end de la aplicación se ha implementado utilizando Angular, un framework de desarrollo de aplicaciones web de código abierto. Angular proporciona una estructura robusta y modular para construir aplicaciones web dinámicas y de alto rendimiento.
 
+------------------------------------------------------------------------------------------------------------------------------
+
 Requisitos del sistema
 Para poder ejecutar el proyecto de evaluación docente con Angular, asegúrate de que tu sistema cumpla con los siguientes requisitos:
 
@@ -19,6 +21,8 @@ npm install -g @angular/cli
 
 Configuración del proyecto
 Sigue los pasos a continuación para configurar el proyecto y ejecutarlo en tu entorno local:
+
+------------------------------------------------------------------------------------------------------------------------------
 
 1.- Clona este repositorio en tu máquina local o descarga el código fuente como un archivo ZIP.
 
@@ -32,3 +36,4 @@ cd nombre-del-repositorio
 
 npm install
 
+------------------------------------------------------------------------------------------------------------------------------
