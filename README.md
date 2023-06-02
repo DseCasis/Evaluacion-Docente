@@ -1,27 +1,39 @@
-# EvaluacionDocente
+                                         Proyecto de Evaluación Docente con Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+Este es el archivo README del proyecto de evaluación docente que utiliza Angular como framework de front-end. Aquí encontrarás información importante sobre la configuración, instalación y ejecución del proyecto.
 
-## Development server
+Descripción:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+El objetivo de este proyecto es desarrollar una aplicación web para facilitar el proceso de evaluación docente en el ámbito universitario. La aplicación permitirá a los estudiantes evaluar a sus profesores de manera anónima y proporcionar retroalimentación valiosa para mejorar la calidad de la enseñanza.
 
-## Code scaffolding
+La parte front-end de la aplicación se ha implementado utilizando Angular, un framework de desarrollo de aplicaciones web de código abierto. Angular proporciona una estructura robusta y modular para construir aplicaciones web dinámicas y de alto rendimiento.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+------------------------------------------------------------------------------------------------------------------------------
 
-## Build
+Requisitos del sistema
+Para poder ejecutar el proyecto de evaluación docente con Angular, asegúrate de que tu sistema cumpla con los siguientes requisitos:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Node.js: Se recomienda tener instalada la versión LTS más reciente de Node.js. Puedes descargarla desde el sitio oficial de Node.js (https://nodejs.org).
 
-## Running unit tests
+- Angular CLI: Para instalar Angular CLI, ejecuta el siguiente comando en tu terminal:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+npm install -g @angular/cli
 
-## Running end-to-end tests
+Configuración del proyecto
+Sigue los pasos a continuación para configurar el proyecto y ejecutarlo en tu entorno local:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+------------------------------------------------------------------------------------------------------------------------------
 
-## Further help
+1.- Clona este repositorio en tu máquina local o descarga el código fuente como un archivo ZIP.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
+2.- Navega hasta el directorio del proyecto.
+
+cd nombre-del-repositorio
+
+3.- Instala las dependencias del proyecto utilizando el siguiente comando:
+
+npm install
+
+------------------------------------------------------------------------------------------------------------------------------
