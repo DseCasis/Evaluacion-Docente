@@ -27,11 +27,11 @@ Sigue los pasos a continuación para configurar el proyecto y ejecutarlo en tu e
 
 1.- Clona este repositorio en tu máquina local o descarga el código fuente como un archivo ZIP.
 
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/DseCasis/Evaluacion-Docente)
 
 2.- Navega hasta el directorio del proyecto.
 
-cd nombre-del-repositorio
+cd Evaluacion-Docente
 
 3.- Instala las dependencias del proyecto utilizando el siguiente comando:
 
